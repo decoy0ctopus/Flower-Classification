@@ -21,3 +21,5 @@ Unit testing
 # application.py
 
 Flask app to connect model to front end.
+
+![image](https://user-images.githubusercontent.com/64989388/167458804-06b110e8-af5f-4d23-a24f-3ffbbd5eaf11.png)
